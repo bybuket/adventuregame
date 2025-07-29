@@ -1,7 +1,7 @@
-# adventuregame
+# Description
 A simple text-based adventure game in Python, inspired by the world of J.R.R. Tolkien.
 
-# features
+# Features
 - Choose-your-own-path adventure
 - Random starting locations (Bywater, Bree, or the Old Forest)
 - Dialogue with Gandalf
